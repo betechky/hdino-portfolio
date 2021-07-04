@@ -2,7 +2,7 @@
   "homepage": "https://betechky.github.io/hdino-portfolio",
   "name": "hdino-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@carbon/icons-react": "^10.34.0",
     "@carbon/themes": "^10.37.0",
